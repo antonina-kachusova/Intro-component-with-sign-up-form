@@ -60,6 +60,8 @@ p {
 .container {
   max-width: 1200px;
   width: 100%;
+  padding-left: 12px;
+  padding-right: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
